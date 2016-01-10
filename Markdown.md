@@ -95,21 +95,21 @@ namespace Foo
 ```
 
 ## Tables
-Hyphens for the first row, pipes to separate columns.  The size of the rows doesn't matter.  Formatting also works.
+Hyphens for the first row, pipes to separate columns.  Formatting also works.
 
 ```
 First Header | Second Header
--|-
-_Cell 1_ | **Cell 2**
-Cell 3 | ~~Cell 4~~
+-------------|--------------
+_Cell 1_     | **Cell 2**
+Cell 3       | ~~Cell 4~~
 ```
 
 results in
 
 First Header | Second Header
--|-
-_Cell 1_ | **Cell 2**
-Cell 3 | ~~Cell 4~~
+-------------|--------------
+_Cell 1_     | **Cell 2**
+Cell 3       | ~~Cell 4~~
 
 Colons in the hyphen row changes alignment.  Left for left, both for center, right for right:
 
