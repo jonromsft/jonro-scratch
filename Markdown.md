@@ -136,6 +136,6 @@ Unordered list identifier followed by square brackets with either a space (for n
 ## Images
 Hyperlink with a leading !
 
-`![](./media/Profile.jpg)`:
+`![alt text](./media/Profile.jpg "Tool tip text")`:
 
-![](./media/Profile.jpg)
+![alt text](./media/Profile.jpg "Tool tip text")
