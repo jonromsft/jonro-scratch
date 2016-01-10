@@ -6,7 +6,7 @@ Paragraphs are really easy.  It's just text followed by more than one blank line
 This is a new one.
 
 ## Headings
-The number of # used indicates the level of heading.  # is a top level heading.  ## is a second level heading and so on.  theyTdon't work without the space.  You just get #hashtags.
+The number of # used indicates the level of heading.  # is a top level heading.  ## is a second level heading and so on.  They don't work without the space.  You just get #hashtags.
 
 ## Blockquotes
 Use a > to start a blockquote.
@@ -25,11 +25,11 @@ Unordered lists use either a * or -:
 * Item 3
 - Item 4
 
-Ordered lists use numbers, but they don't matter.  These all start with 1.
+Ordered lists use numbers.
 1. Item 1
-1. Item 2
-1. Item 3
-1. Item 4
+2. Item 2
+3. Item 3
+4. Item 4
 
 Nested lists use two spaces.
 1. Item 1
