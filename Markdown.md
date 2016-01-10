@@ -139,3 +139,8 @@ Hyperlink with a leading !
 `![alt text](./media/Profile.jpg "Tool tip text")`:
 
 ![alt text](./media/Profile.jpg "Tool tip text")
+
+References also work
+![alt text][profile]
+
+[profile]: ./media/Profile.jpg "Reference tool tip text"
