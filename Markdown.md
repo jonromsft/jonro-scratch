@@ -20,18 +20,21 @@ Underscore also works.  __bold__ and _italic_.  _**Combined**_ for both!
 
 ## Lists
 Unordered lists use either a * or -:
+
 * Item 1
 * Item 2
 * Item 3
 - Item 4
 
 Ordered lists use numbers.
+
 1. Item 1
 2. Item 2
 3. Item 3
 4. Item 4
 
 Nested lists use two spaces.
+
 1. Item 1
   2.  Sub item 1
   2.  Sub item 2
