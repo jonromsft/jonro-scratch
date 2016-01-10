@@ -95,7 +95,7 @@ namespace Foo
 ```
 
 ## Tables
-Hyphens for the first row, pipes to separate columns.  Formatting also works.
+Hyphens for the first row, pipes to separate columns.  Only the size of the hyphen row matters.  Formatting also works.
 
 ```
 First Header | Second Header
@@ -115,13 +115,13 @@ Colons in the hyphen row changes alignment.  Left for left, both for center, rig
 
 ```
 Left | Center | Right
-:-|:-:|-:
+:----|:------:|-----:
 1 | 2 | 3
 4 | 5 | 6
 ```
 
 Left | Center | Right
-:-|:-:|-:
+:----|:------:|-----:
 1 | 2 | 3
 4 | 5 | 6
 
