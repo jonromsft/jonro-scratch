@@ -26,12 +26,12 @@ Unordered lists use either a * or -:
 * Item 3
 - Item 4
 
-Ordered lists use numbers.
+Ordered lists use numbers.  Make sure you add a blank line before the list starts.  The numbers used don't actually matter.  The next lines all start with `1.`.
 
 1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
+1. Item 2
+1. Item 3
+1. Item 4
 
 Nested lists use two spaces.
 
