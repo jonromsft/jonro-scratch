@@ -136,18 +136,18 @@ Unordered list identifier followed by square brackets with either a space (for n
 ## Images
 Hyperlink with a leading !
 
-`![alt text](media/Profile.jpg "Tool tip text")`:
+`![alt text](./media/Profile.JPG "Tool tip text")`:
 
-![alt text](media/Profile.jpg "Tool tip text")
+![alt text](./media/Profile.JPG "Tool tip text")
 
 References also work
 
 ```
 ![alt text][profile]
 
-[profile]: media/Profile.jpg "Reference tool tip text"
+[profile]: ./media/Profile.JPG "Reference tool tip text"
 ```
 
 ![alt text][profile]
 
-[profile]: media/Profile.jpg "Reference tool tip text"
+[profile]: ./media/Profile.JPG "Reference tool tip text"
